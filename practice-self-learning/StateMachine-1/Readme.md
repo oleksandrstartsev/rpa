@@ -8,5 +8,5 @@ Description of a state machine and example is presented at https://studio.uipath
 
 * [UiPathStudio CE](http://www.dropwizard.io/1.0.2/docs/) - The  complete software platform for Robotic Process Automation.
 
-## *
+## 
 This folder may contain instance of basic projects following the UiPath Training Academy and UiPath Forum.
