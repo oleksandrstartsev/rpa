@@ -1,7 +1,7 @@
 #  Guess a number
 
 This repository contains the RPA project created in UiPath.
-Description of a state machine and example is presented at https://studio.uipath.com/v2018.3/docs/state-machines
+Description of an example of this state machine is presented at https://studio.uipath.com/v2018.3/docs/state-machines
 
 
 ## Built With
